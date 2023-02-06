@@ -27,5 +27,8 @@ valor int);
 
 ⇨ Como essas entidades estão relacionadas?
 Sim, porque a entidades aluno, se relaciona com a turma que possui outros alunos e professores que são entidades. E também com o curso.
+(1,1)
+(0,n)
+(1,n)
 
 
